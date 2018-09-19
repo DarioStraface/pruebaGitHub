@@ -17,6 +17,7 @@ public class PruebaGitHub2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola. Primer repositorio GitHub");
+        System.out.println("Actualizando.");
     }
     
 }
